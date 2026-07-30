@@ -28,6 +28,8 @@ Android와 크로스 플랫폼 앱을 중심으로 일하며, LLM을 활용한 �
 
 ### Toolkit
 
+#### Mobile
+
 <p>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
@@ -36,6 +38,8 @@ Android와 크로스 플랫폼 앱을 중심으로 일하며, LLM을 활용한 �
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
 </p>
+
+#### Automation & Backend
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -46,6 +50,41 @@ Android와 크로스 플랫폼 앱을 중심으로 일하며, LLM을 활용한 �
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
+### GitHub Activity
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./profile-summary-card-output/github_dark/3-stats.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./profile-summary-card-output/github/3-stats.svg"
+    />
+    <img
+      height="165"
+      src="./profile-summary-card-output/github/3-stats.svg"
+      alt="90ms GitHub statistics"
+    />
+  </picture>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./profile-summary-card-output/github/2-most-commit-language.svg"
+    />
+    <img
+      height="165"
+      src="./profile-summary-card-output/github/2-most-commit-language.svg"
+      alt="90ms most used languages"
+    />
+  </picture>
+</p>
+
 ### How I work
 
 - 사용자가 마주하는 화면과 흐름에서 설계를 시작합니다.
@@ -54,3 +93,12 @@ Android와 크로스 플랫폼 앱을 중심으로 일하며, LLM을 활용한 �
 - 작은 기능도 배포, 관찰, 개선의 사이클 안에서 다룹니다.
 
 > 작게 시작하고, 빠르게 검증하고, 반복은 자동화합니다.
+
+### Contributions
+
+<p align="center">
+  <img
+    src="./profile-3d-contrib/profile-night-rainbow.svg"
+    alt="90ms 3D contribution graph"
+  />
+</p>
