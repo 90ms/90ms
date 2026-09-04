@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title description">
+  <title id="title">90ms</title>
+  <desc id="description">Mobile products, thoughtful systems, and useful automation.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/><stop offset="0.55" stop-color="#11162b"/><stop offset="1" stop-color="#15112b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8b5cf6"/><stop offset="1" stop-color="#2dd4bf"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#8b5cf6" stop-opacity="0.28"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.045"/>
+    </pattern>
+    <filter id="soft-glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="10"/></filter>
+  </defs>
+  <rect width="1200" height="320" rx="28" fill="url(#background)"/>
+  <rect width="1200" height="320" rx="28" fill="url(#grid)"/>
+  <circle cx="954" cy="42" r="250" fill="url(#glow)"/>
+  <circle cx="110" cy="310" r="210" fill="url(#glow)" opacity="0.55"/>
+  <g opacity="0.8">
+    <circle cx="1052" cy="105" r="56" fill="none" stroke="#2dd4bf" stroke-opacity="0.22"/>
+    <circle cx="1052" cy="105" r="76" fill="none" stroke="#8b5cf6" stroke-opacity="0.18"/>
+    <path d="M976 105h152M1052 29v152" stroke="#ffffff" stroke-opacity="0.06"/>
+    <circle cx="1052" cy="105" r="5" fill="#2dd4bf"/>
+    <circle cx="1052" cy="105" r="13" fill="#2dd4bf" opacity="0.18" filter="url(#soft-glow)"/>
+  </g>
+  <g transform="translate(80 66)">
+    <rect width="54" height="24" rx="12" fill="#ffffff" fill-opacity="0.07" stroke="#ffffff" stroke-opacity="0.10"/>
+    <circle cx="14" cy="12" r="4" fill="#2dd4bf"/>
+    <text x="25" y="16" fill="#c4b5fd" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="10" font-weight="700" letter-spacing="1.5">ON</text>
+    <text x="0" y="104" fill="#f8fafc" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="92" font-weight="780" letter-spacing="-6">90</text>
+    <text x="121" y="104" fill="url(#accent)" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="92" font-weight="780" letter-spacing="-6">ms</text>
+    <rect x="2" y="129" width="410" height="3" rx="1.5" fill="url(#accent)"/>
+    <text x="2" y="169" fill="#cbd5e1" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="19" font-weight="500" letter-spacing="0.4">MOBILE PRODUCTS · SYSTEMS · AUTOMATION</text>
+  </g>
+  <g transform="translate(894 233)" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">
+    <text x="0" y="0">BUILD</text><text x="0" y="24">SHIP</text><text x="0" y="48">IMPROVE</text>
+    <text x="72" y="0" fill="#8b5cf6">01</text><text x="72" y="24" fill="#a78bfa">02</text><text x="72" y="48" fill="#2dd4bf">03</text>
+  </g>
+  <rect x="0.75" y="0.75" width="1198.5" height="318.5" rx="27.25" fill="none" stroke="#ffffff" stroke-opacity="0.10" stroke-width="1.5"/>
+</svg>
